@@ -1,6 +1,0 @@
-{
-  "token": "YOUR_BOT_TOKEN",
-  "prefix": "!",
-  "channels": ["CHANNEL_ID_1", "CHANNEL_ID_2", "CHANNEL_ID_3"],
-  "spawnIntervals": [1800000, 3600000, 7200000]
-}
