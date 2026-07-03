@@ -1,0 +1,5 @@
+{
+  "activeBox": false,
+  "channelId": null,
+  "cooldown": false
+}
